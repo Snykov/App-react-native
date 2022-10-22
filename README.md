@@ -2,8 +2,8 @@
 
 <h1>Ola, criei meu primeiro projeto em react Native</h1>
 
-<p><li> A ideia e trazer uma pagina de uma banco simples.</li></p>
-<p><li> Aplicativo apresenta apenas uma imagem</li></p>
+<p><li> A ideia e trazer uma pagina de um banco simples.</li></p>
+<p><li> Aplicativo apresenta apenas uma pagina</li></p>
 <p><li> Download Autorizado apenas para estudo</li></p>
 
 

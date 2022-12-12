@@ -7,7 +7,7 @@
 <p><li> Download Autorizado apenas para estudo</li></p>
 
 
-<li><a> O Expo (GitHub) é um framework open-source e uma plataforma para aplicativos React universais. É um conjunto de ferramentas e serviços criados em torno de plataformas React Native e nativas para ajudar desde o desenvolvimento até atualizações Over The Air (OTA) e a geração do.apk,.aab e.ipa para que você possa colocar seu app nas lojas Play Store e App Store.</a></li>
+<li><a> O Expo (GitHub) é um framework open-source e uma plataforma para aplicativos React universais. É um conjunto de ferramentas e serviços criados em torno de plataformas React Native e nativas para ajudar desde o desenvolvimento até atualizações Over The Air (OTA) e a geração do.apk,.aab e.ipa para que você possa colocar seu app nas lojas Play Store e App Store..</a></li>
 
 
 ## Usage
